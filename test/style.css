@@ -1,0 +1,29 @@
+.my-wrapper-02, .my-wrapper-03, .my-wrapper-04 {
+  display: block;
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%; }
+  .my-wrapper-02 img, .my-wrapper-03 img, .my-wrapper-04 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
+.my-wrapper-02 {
+  width: 50%;
+  padding-bottom: 21.875%; }
+
+.my-wrapper-03 {
+  width: 600px;
+  padding-bottom: 262.5px;
+  max-width: none; }
+
+.my-wrapper-04 {
+  width: 60px;
+  padding-bottom: 26.25px;
+  display: inline-block;
+  vertical-align: middle; }
+
+/*# sourceMappingURL=style.css.map */

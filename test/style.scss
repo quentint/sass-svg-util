@@ -1,0 +1,14 @@
+@import "../tools.svg-size";
+
+.my-wrapper-02 {
+	@include tkwk-svg-size(50%, 240, 105);
+}
+.my-wrapper-03 {
+	@include tkwk-svg-size(600px, 240, 105);
+	max-width: none;
+}
+.my-wrapper-04 {
+	@include tkwk-svg-size(60px, 240, 105);
+	display: inline-block;
+	vertical-align: middle;
+}
