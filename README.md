@@ -1,3 +1,3 @@
 # tkwk-svg-size
 
-Quick mixin to simplify SCG sizing with SASS.
+Quick mixin to simplify SVG sizing with SASS.
